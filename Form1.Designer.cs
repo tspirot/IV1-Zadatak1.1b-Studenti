@@ -118,27 +118,27 @@
             // 
             this.listBoxStudenti.FormattingEnabled = true;
             this.listBoxStudenti.ItemHeight = 16;
-            this.listBoxStudenti.Location = new System.Drawing.Point(54, 157);
+            this.listBoxStudenti.Location = new System.Drawing.Point(22, 157);
             this.listBoxStudenti.Name = "listBoxStudenti";
-            this.listBoxStudenti.Size = new System.Drawing.Size(214, 276);
+            this.listBoxStudenti.Size = new System.Drawing.Size(246, 276);
             this.listBoxStudenti.TabIndex = 8;
             this.listBoxStudenti.SelectedIndexChanged += new System.EventHandler(this.listBoxStudenti_SelectedIndexChanged);
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(347, 32);
+            this.label4.Location = new System.Drawing.Point(350, 27);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(48, 13);
+            this.label4.Size = new System.Drawing.Size(58, 16);
             this.label4.TabIndex = 9;
             this.label4.Text = "Predmet";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(350, 70);
+            this.label5.Location = new System.Drawing.Point(371, 67);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(39, 13);
+            this.label5.Size = new System.Drawing.Size(47, 16);
             this.label5.TabIndex = 10;
             this.label5.Text = "Ocena";
             // 
@@ -181,9 +181,9 @@
             // 
             this.listBoxOcene.FormattingEnabled = true;
             this.listBoxOcene.ItemHeight = 16;
-            this.listBoxOcene.Location = new System.Drawing.Point(399, 172);
+            this.listBoxOcene.Location = new System.Drawing.Point(364, 172);
             this.listBoxOcene.Name = "listBoxOcene";
-            this.listBoxOcene.Size = new System.Drawing.Size(217, 260);
+            this.listBoxOcene.Size = new System.Drawing.Size(252, 260);
             this.listBoxOcene.TabIndex = 15;
             this.listBoxOcene.SelectedIndexChanged += new System.EventHandler(this.listBoxOcene_SelectedIndexChanged);
             // 
