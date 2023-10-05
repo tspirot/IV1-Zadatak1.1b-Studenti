@@ -1,4 +1,4 @@
-# Zadatak1.1b-Studenti
+# Zadatak1.1-Studenti
 https://book.tsp.edu.rs/mod/assign/view.php?id=22777
 
   **Rad sa generičkim tipovima**
